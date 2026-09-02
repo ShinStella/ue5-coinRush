@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "ITEM_COIN_01",
+        "ItemID": "ITEM_COIN_01",
+        "ItemType": "COIN",
+        "ItemClass": "/Script/Engine.Blueprint'/Game/Blueprints/BP_Coin_Small.BP_Coin_Small_C'"
+    },
+    {
+        "Name": "ITEM_COIN_02",
+        "ItemID": "ITEM_COIN_02",
+        "ItemType": "COIN",
+        "ItemClass": "/Script/Engine.Blueprint'/Game/Blueprints/BP_Coin_Big.BP_Coin_Big_C'"
+    },
+    {
+        "Name": "ITEM_MINE_01",
+        "ItemID": "ITEM_MINE_01",
+        "ItemType": "MINE",
+        "ItemClass": "/Script/Engine.Blueprint'/Game/Blueprints/BP_Mine.BP_Mine_C'"
+    },
+    {
+        "Name": "ITEM_HEALING_01",
+        "ItemID": "ITEM_HEALING_01",
+        "ItemType": "HEALING",
+        "ItemClass": "/Script/Engine.Blueprint'/Game/Blueprints/BP_HPPotion.BP_HPPotion_C'"
+    }
+]

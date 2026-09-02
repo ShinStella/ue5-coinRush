@@ -1,0 +1,215 @@
+[
+    {
+        "Name": "Level 1",
+        "LevelIndex": 0,
+        "Waves": [
+            {
+                "WaveIndex": 0,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 50,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 70.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 30.0
+                    }
+                ]
+            },
+            {
+                "WaveIndex": 1,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 60,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 60.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 20.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 10.0
+                    },
+                    {
+                        "ItemID": "ITEM_HEALING_01",
+                        "Probability": 10.0
+                    }
+                ]
+            },
+            {
+                "WaveIndex": 2,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 70,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 50.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 20.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 20.0
+                    },
+                    {
+                        "ItemID": "ITEM_HEALING_01",
+                        "Probability": 10.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Level 2",
+        "LevelIndex": 1,
+        "Waves": [
+            {
+                "WaveIndex": 0,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 40,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 50.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 10.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 30.0
+                    },
+                    {
+                        "ItemID": "ITEM_HEALING_01",
+                        "Probability": 10.0
+                    }
+                ]
+            },
+            {
+                "WaveIndex": 1,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 50,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 40.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 10.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 40.0
+                    },
+                    {
+                        "ItemID": "ITEM_HEALING_01",
+                        "Probability": 10.0
+                    }
+                ]
+            },
+            {
+                "WaveIndex": 2,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 60,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 30.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 10.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 50.0
+                    },
+                    {
+                        "ItemID": "ITEM_HEALING_01",
+                        "Probability": 10.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Level 3",
+        "LevelIndex": 2,
+        "Waves": [
+            {
+                "WaveIndex": 0,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 30,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 30.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 5.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 60.0
+                    },
+                    {
+                        "ItemID": "ITEM_HEALING_01",
+                        "Probability": 5.0
+                    }
+                ]
+            },
+            {
+                "WaveIndex": 1,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 40,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 20.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 5.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 70.0
+                    },
+                    {
+                        "ItemID": "ITEM_HEALING_01",
+                        "Probability": 5.0
+                    }
+                ]
+            },
+            {
+                "WaveIndex": 2,
+                "WaveTime": 10.0,
+                "SpawnItemCount": 50,
+                "WaveItems": [
+                    {
+                        "ItemID": "ITEM_COIN_01",
+                        "Probability": 10.0
+                    },
+                    {
+                        "ItemID": "ITEM_COIN_02",
+                        "Probability": 10.0
+                    },
+                    {
+                        "ItemID": "ITEM_MINE_01",
+                        "Probability": 80.0
+                    }
+                ]
+            }
+        ]
+    }
+]
